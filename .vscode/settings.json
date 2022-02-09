@@ -1,0 +1,10 @@
+{
+  "prettier.enable": false,
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "stylelint.validate": ["css", "scss", "less"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true
+  }
+}
