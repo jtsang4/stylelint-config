@@ -1,6 +1,6 @@
 {
   "name": "@jtsang/stylelint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Opinionated stylelint configs.",
   "main": "index.js",
   "scripts": {

@@ -10,7 +10,7 @@ Opinionated stylelint configs.
 ### Install
 
 ```bash
-pnpm add -D eslint @jtsang/stylelint-config
+pnpm add -D stylelint @jtsang/stylelint-config
 ```
 
 ### Config `.stylelintrc`
