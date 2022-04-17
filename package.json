@@ -1,6 +1,6 @@
 {
   "name": "@jtsang/stylelint-config",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Opinionated stylelint configs.",
   "main": "index.js",
   "scripts": {
@@ -21,9 +21,11 @@
   },
   "homepage": "https://github.com/jtsang4/stylelint-config#readme",
   "dependencies": {
-    "postcss": "^8.4.6",
+    "postcss": "^8.4.12",
     "postcss-scss": "^4.0.3",
-    "stylelint": "^14.4.0",
-    "stylelint-config-standard-scss": "^3.0.0"
+    "stylelint": "^14.7.1",
+    "stylelint-config-css-modules": "^4.1.0",
+    "stylelint-config-standard-scss": "^3.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.5.0"
   }
 }
