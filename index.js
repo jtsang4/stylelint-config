@@ -15,7 +15,7 @@ module.exports = {
       customSyntax: 'postcss-less',
     },
   ],
-  ignoreFiles: ['**/*.js', '**/*.jsx', '**/*.tsx', '**/*.ts'],
+  ignoreFiles: ["**/node_modules/**/*", '**/*.js', '**/*.jsx', '**/*.tsx', '**/*.ts'],
   rules: {
     'selector-class-pattern': null,
   },
