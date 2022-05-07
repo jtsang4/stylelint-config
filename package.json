@@ -1,6 +1,6 @@
 {
   "name": "@jtsang/stylelint-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Opinionated stylelint configs.",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,6 @@
     "stylelint-config-css-modules": "^4.1.0",
     "stylelint-config-recommended": "^7.0.0",
     "stylelint-config-standard": "^25.0.0",
-    "stylelint-config-standard-scss": "^3.0.0",
     "stylelint-declaration-block-no-ignored-properties": "^2.5.0"
   }
 }
