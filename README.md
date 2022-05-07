@@ -17,7 +17,8 @@ pnpm add -D stylelint @jtsang/stylelint-config
 
 ```json
 {
-  "extends": ["@jtsang/stylelint-config"]
+  "extends": ["@jtsang/stylelint-config"],
+  "ignoreFiles": ["**/node_modules/**/*"]
 }
 ```
 
